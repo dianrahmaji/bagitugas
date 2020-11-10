@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\dianr\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\dianr\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_BagiTugas.-984612782.00" t="ExcludeRecursive" />
-    <e p="D:\ASP.NET\BagiTugas\BagiTugas" t="IncludeRecursive">
+    <e p="C:\Users\Marcel\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Marcel\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_BagiTugas.-1531785848.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Marcel\workspace\BagiTugas" t="IncludeRecursive">
       <e p=".gitignore" t="Include" />
       <e p="appsettings.Development.json" t="Include" />
       <e p="appsettings.json" t="Include" />
@@ -13,7 +13,9 @@
       <e p="Controllers" t="Include">
         <e p="HomeController.cs" t="Include" />
       </e>
+      <e p="LICENSE" t="Include" />
       <e p="Models" t="Include">
+        <e p="Course.cs" t="Include" />
         <e p="ErrorViewModel.cs" t="Include" />
       </e>
       <e p="obj" t="ExcludeRecursive">

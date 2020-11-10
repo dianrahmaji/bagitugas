@@ -8,7 +8,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609f8227-4d60-45c0-9fab-9bc261f0caf8" name="Default Changelist" comment="" />
+    <list default="true" id="609f8227-4d60-45c0-9fab-9bc261f0caf8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Models/Course.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +20,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Models/Course.cs" />
+      </list>
+    </option>
   </component>
   <component name="ProjectId" id="1k2WBE1DgWmsPrWmIi6Ce2D0is6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -71,12 +82,15 @@
       <option name="presentableId" value="Default" />
       <updated>1604899034510</updated>
       <workItem from="1604899042445" duration="299000" />
+      <workItem from="1604935339227" duration="538000" />
+      <workItem from="1604991014787" duration="905000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -88,8 +102,27 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1000" height="99" key="GridCell.Tab.0.bottom" timestamp="1604935883421">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="99" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1604935883421" />
+    <state width="1000" height="99" key="GridCell.Tab.0.center" timestamp="1604935883420">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="99" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1604935883420" />
+    <state width="1000" height="99" key="GridCell.Tab.0.left" timestamp="1604935883420">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="99" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1604935883420" />
+    <state width="1000" height="99" key="GridCell.Tab.0.right" timestamp="1604935883420">
+      <screen x="0" y="30" width="1366" height="738" />
+    </state>
+    <state width="1000" height="99" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1604935883420" />
   </component>
 </project>
