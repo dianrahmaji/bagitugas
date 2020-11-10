@@ -11,12 +11,24 @@
       <e p="BagiTugas.sln" t="IncludeFlat" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
+        <e p="CoursesController.cs" t="Include" />
         <e p="HomeController.cs" t="Include" />
       </e>
       <e p="Data" t="Include">
+        <e p="BagiTugasContext.cs" t="Include" />
         <e p="CourseContext.cs" t="Include" />
       </e>
       <e p="LICENSE" t="Include" />
+      <e p="Migrations" t="Include">
+        <e p="20201110140629_InitialCreate.cs" t="Include" />
+        <e p="20201110140629_InitialCreate.Designer.cs" t="Include" />
+        <e p="BagiTugas" t="Include">
+          <e p="20201110140738_InitialCreate.cs" t="Include" />
+          <e p="20201110140738_InitialCreate.Designer.cs" t="Include" />
+          <e p="BagiTugasContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="CourseContextModelSnapshot.cs" t="Include" />
+      </e>
       <e p="Models" t="Include">
         <e p="Course.cs" t="Include" />
         <e p="ErrorViewModel.cs" t="Include" />
@@ -35,12 +47,21 @@
       <e p="Program.cs" t="Include" />
       <e p="Properties" t="Include">
         <e p="launchSettings.json" t="Include" />
+        <e p="serviceDependencies.json" t="Include" />
+        <e p="serviceDependencies.local.json" t="Include" />
       </e>
       <e p="README.md" t="Include" />
       <e p="Startup.cs" t="Include" />
       <e p="Views" t="Include">
         <e p="_ViewImports.cshtml" t="Include" />
         <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Courses" t="Include">
+          <e p="Create.cshtml" t="Include" />
+          <e p="Delete.cshtml" t="Include" />
+          <e p="Details.cshtml" t="Include" />
+          <e p="Edit.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
         <e p="Home" t="Include">
           <e p="Index.cshtml" t="Include" />
           <e p="Privacy.cshtml" t="Include" />
