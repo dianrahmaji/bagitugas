@@ -9,10 +9,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="609f8227-4d60-45c0-9fab-9bc261f0caf8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Data/CourseContext.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Student.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Student.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Models/Teacher.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Teacher.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BagiTugas.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BagiTugas.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
         <option value="$PROJECT_DIR$/Models/Course.cs" />
         <option value="$PROJECT_DIR$/Models/Teacher.cs" />
         <option value="$PROJECT_DIR$/Models/Student.cs" />
+        <option value="$PROJECT_DIR$/Data/CourseContext.cs" />
       </list>
     </option>
   </component>
@@ -92,7 +93,7 @@
       <updated>1604899034510</updated>
       <workItem from="1604899042445" duration="299000" />
       <workItem from="1604935339227" duration="538000" />
-      <workItem from="1604991014787" duration="1990000" />
+      <workItem from="1604991014787" duration="4136000" />
     </task>
     <servers />
   </component>

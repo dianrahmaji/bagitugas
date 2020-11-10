@@ -13,6 +13,9 @@
       <e p="Controllers" t="Include">
         <e p="HomeController.cs" t="Include" />
       </e>
+      <e p="Data" t="Include">
+        <e p="CourseContext.cs" t="Include" />
+      </e>
       <e p="LICENSE" t="Include" />
       <e p="Models" t="Include">
         <e p="Course.cs" t="Include" />
