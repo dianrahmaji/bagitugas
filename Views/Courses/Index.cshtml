@@ -1,15 +1,14 @@
 ﻿@model IEnumerable<BagiTugas.Models.Course>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Course";
 }
 
-<h1>Index</h1>
-
+<h1>Course List</h1>
 <p>
     <a asp-action="Create">Create New</a>
 </p>
-<table class="table">
+@*<table class="table">
     <thead>
         <tr>
             <th>
@@ -27,9 +26,28 @@
             <th></th>
         </tr>
     </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
+    <tbody>*@
+<div class="container">
+    <div class="row row-col-3">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4" style="margin-bottom: 20px;">
+                <div class="card" style="width: 300px; height: 250px;">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Title)</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(modelItem => item.Materi)</h6>
+                        <p class="card-text"></p>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+        @*<tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
             </td>
@@ -50,4 +68,4 @@
         </tr>
 }
     </tbody>
-</table>
+</table>*@

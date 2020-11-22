@@ -9,11 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="609f8227-4d60-45c0-9fab-9bc261f0caf8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BagiTugas/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BagiTugas.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/BagiTugas.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/HomeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/HomeController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Courses/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Courses/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Home/Index.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Home/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,8 +31,13 @@
         <option value="$PROJECT_DIR$/Models/Teacher.cs" />
         <option value="$PROJECT_DIR$/Models/Student.cs" />
         <option value="$PROJECT_DIR$/Data/CourseContext.cs" />
-        <option value="$PROJECT_DIR$/Startup.cs" />
         <option value="$PROJECT_DIR$/appsettings.json" />
+        <option value="$PROJECT_DIR$/Views/Courses/Create.cshtml" />
+        <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+        <option value="$PROJECT_DIR$/Views/Courses/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" />
       </list>
     </option>
   </component>
@@ -97,7 +103,9 @@
       <workItem from="1604899042445" duration="299000" />
       <workItem from="1604935339227" duration="538000" />
       <workItem from="1604991014787" duration="5613000" />
-      <workItem from="1605008484326" duration="5572000" />
+      <workItem from="1605008484326" duration="6248000" />
+      <workItem from="1605418692062" duration="845000" />
+      <workItem from="1606043074836" duration="11910000" />
     </task>
     <servers />
   </component>
@@ -122,21 +130,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1000" height="296" key="GridCell.Tab.0.bottom" timestamp="1605017688264">
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom" timestamp="1606057759062">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1000" height="296" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1605017688264" />
-    <state width="1000" height="296" key="GridCell.Tab.0.center" timestamp="1605017688264">
+    <state width="1323" height="118" key="GridCell.Tab.0.bottom/0.30.1366.738@0.30.1366.738" timestamp="1606057759062" />
+    <state width="1323" height="118" key="GridCell.Tab.0.center" timestamp="1606057759062">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1000" height="296" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1605017688264" />
-    <state width="1000" height="296" key="GridCell.Tab.0.left" timestamp="1605017688264">
+    <state width="1323" height="118" key="GridCell.Tab.0.center/0.30.1366.738@0.30.1366.738" timestamp="1606057759062" />
+    <state width="1323" height="118" key="GridCell.Tab.0.left" timestamp="1606057759062">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1000" height="296" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1605017688264" />
-    <state width="1000" height="296" key="GridCell.Tab.0.right" timestamp="1605017688264">
+    <state width="1323" height="118" key="GridCell.Tab.0.left/0.30.1366.738@0.30.1366.738" timestamp="1606057759062" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right" timestamp="1606057759062">
       <screen x="0" y="30" width="1366" height="738" />
     </state>
-    <state width="1000" height="296" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1605017688264" />
+    <state width="1323" height="118" key="GridCell.Tab.0.right/0.30.1366.738@0.30.1366.738" timestamp="1606057759062" />
   </component>
 </project>
